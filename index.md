@@ -24,7 +24,6 @@ An app to discover hidden travel gems across India.
 ## 🎓 Resume & Documents
 
 - [Resume](./resume-and-sop/resume.pdf)
-- [PhD Research Proposal](./resume-and-sop/phd-research-proposal.pdf)
 
 ---
 
@@ -52,10 +51,4 @@ Here are some of the courses and certifications I've completed:
 - ✅ Machine Learning & AI – Core Applications (Project + Academic)
 - ✅ Data Science with Python – EDA, ML, and Visualization
 
-More certificates and skill badges coming soon!
 
-
-
-- **Data Science with Python**  
-  *Topics:* EDA, ML, Visualization  
-  *Type:* Academic Project / Self-taught
