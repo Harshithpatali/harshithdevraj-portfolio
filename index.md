@@ -1,7 +1,7 @@
 
 # 👋 Welcome to Harshith Devraj's Portfolio
 
-I'm a data analyst with a strong background in applied mathematics, computing, and machine learning. This site showcases my projects in finance, real estate, and AI.
+I'm a Applied mathematics and  computing graduate and This site showcases my projects in finance, real estate, and AI.
 
 ---
 
