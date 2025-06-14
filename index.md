@@ -31,6 +31,22 @@ An app to discover hidden travel gems across India.
 
 - [SQL for Data Science](./certificates/sql-certificate.pdf)
 - [Finance Analyst Course](./certificates/finance-certificate.pdf)
+- ---
+
+## 📜 Certifications & Courses
+
+Here are some of the courses and certifications I've completed:
+
+- ✅ SQL for Data Science – [Certificate](./certificates/sql-certificate.pdf)
+- ✅ Financial Analyst Course – [Certificate](./certificates/finance-certificate.pdf)
+- ✅ MATLAB for Numerical Computation (Academic)
+- ✅ LaTeX for Scientific and Academic Writing
+- ✅ Deep Learning for Stock Market Prediction (Project)
+- ✅ Machine Learning & AI – Core Applications (Project + Academic)
+- ✅ Data Science with Python – EDA, ML, and Visualization
+
+More certificates and skill badges coming soon!
+
 
 ---
 
