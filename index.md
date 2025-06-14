@@ -38,27 +38,23 @@ An app to discover hidden travel gems across India.
 > Built with ❤️ using GitHub Pages.
 
 
-## Certifications & Courses
+---
 
-The following are certifications and technical courses I have completed:
+## 📜 Certifications & Courses
 
-- **SQL for Data Science**  
-  *Provider:* [Certificate (PDF)](./certificates/sql-certificate.pdf)
+Here are some of the courses and certifications I've completed:
 
-- **Financial Analyst Course**  
-  *Provider:* [Certificate (PDF)](./certificates/finance-certificate.pdf)
+- ✅ SQL for Data Science – [Certificate](./certificates/sql-certificate.pdf)
+- ✅ Financial Analyst Course – [Certificate](./certificates/finance-certificate.pdf)
+- ✅ MATLAB for Numerical Computation (Academic)
+- ✅ LaTeX for Scientific and Academic Writing
+- ✅ Deep Learning for Stock Market Prediction (Project)
+- ✅ Machine Learning & AI – Core Applications (Project + Academic)
+- ✅ Data Science with Python – EDA, ML, and Visualization
 
-- **MATLAB for Scientific Computing**  
-  *Type:* Academic Coursework
+More certificates and skill badges coming soon!
 
-- **LaTeX for Scientific and Academic Writing**  
-  *Type:* Academic Coursework
 
-- **Deep Learning for Stock Market Prediction**  
-  *Type:* Project-based Application
-
-- **Machine Learning and AI Applications**  
-  *Type:* Academic / Self-learned
 
 - **Data Science with Python**  
   *Topics:* EDA, ML, Visualization  
